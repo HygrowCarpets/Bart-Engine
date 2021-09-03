@@ -1,7 +1,7 @@
 # Bart-Engine
 
 ## :clipboard:Info
-IDE used: Eclipse (should work on other IDEs too)
+IDE used: Eclipse (should work on other IDEs too) <br />
 Resources used: https://www.youtube.com/playlist?list=PL7dwpoQd3a8j6C9p5LqHzYFSkii6iWPZF
 
 ## :computer:Installation
